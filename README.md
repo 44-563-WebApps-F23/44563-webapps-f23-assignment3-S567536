@@ -2,5 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 Hosted at: 
-[file:///C:/Users/S567536/Documents/GitHub/44563-webapps-f23-assignment3-S567536/index.html
-](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-S567536/)https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-S567536/
+(https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-S567536/)https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-S567536/
