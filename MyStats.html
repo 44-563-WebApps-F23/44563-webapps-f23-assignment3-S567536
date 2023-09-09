@@ -51,5 +51,14 @@
             </tr>
         </table>
 
+        <hr>
+
+        <blockquote cite="https://stackoverflow.com/questions/58789702/how-to-properly-force-https-in-safe-stack">How to how-to-properly-force-https-in-safe-stack</blockquote>
+        <A href="https://css-tricks.com/snippets/htaccess/force-https/">Force-Https</A>
+        <pre>
+            RewriteEngine on
+            RewriteCond %{HTTPS} !on
+            RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+        </pre>
     </body>
 </html>
